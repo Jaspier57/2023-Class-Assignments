@@ -1,0 +1,10 @@
+﻿*.exe
+*.o
+*.out
+*.obj
+.vs/
+Debug/
+Release/
+x64/
+.DS_Store
+Thumbs.db
